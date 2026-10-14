@@ -153,7 +153,7 @@ public class MainActivity extends AppCompatActivity {
             TextView nameView = new TextView(MainActivity.this);
             nameView.setText(student.name);
             nameView.setTextSize(18);
-            nameView.setTextColor(Color.WHITE);
+            nameView.setTextColor(Color.BLACK);
             nameView.setTypeface(null, Typeface.BOLD);
 
             TextView statusView = new TextView(MainActivity.this);
