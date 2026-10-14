@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Student Attendance Register</string>
+    <string name="no_students_added">No students added yet.</string>
+</resources>
